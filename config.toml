@@ -1,0 +1,9 @@
+baseURL = "https://ebcrowder.dev/"
+languageCode = "en-us"
+title = "Eric Crowder"
+
+[permalinks]
+  blog = "/:filename/"
+
+[params]
+  homeText = "You just made a Hugo blog from scratch."
