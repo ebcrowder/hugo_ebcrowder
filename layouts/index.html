@@ -1,13 +1,16 @@
 {{ define "main" }}
 
-<div class="sans-serif w-90 w-60-ns center center-ns mv2 mv5-ns"></div>
-<h1 class="f1">{{ .Site.Title }}</h1>
-<div id="nav-border" class="container">
-  {{ range .Site.Menus.main }} {{ $text := print .Name | safeHTML }}
-  <div class="f1">
-    <a href="{{ .URL }}">{{ $text }}</a>
+<div class="w-90">
+  <h1 class="w-100 mt5 f5 ttu tracked fw6">{{ .Site.Title }}</h1>
+  <div>
+    {{ range .Site.Menus.main }} {{ $text := print .Name | safeHTML }}
+    <div class="f1">
+      <a href="{{ .URL }}" class="link black bg-animate underline-hover"
+        >{{ $text }}</a
+      >
+    </div>
+    {{ end }}
   </div>
-  {{ end }}
 </div>
 
 {{ end }}

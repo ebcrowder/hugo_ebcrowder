@@ -3,6 +3,8 @@
 <h1 class="f1">{{ .Title }}</h1>
 {{ range .Pages.ByPublishDate.Reverse }}
 <p class="f3">
-  <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+  <a href="{{ .RelPermalink }}" class="link black bg-animate underline-hover"
+    >{{ .Title }}</a
+  >
 </p>
 {{ end }} {{ end }}
