@@ -5,6 +5,8 @@ title = "Eric Crowder"
 [permalinks]
   blog = "/:filename/"
 
+[params]
+
 [menu]
   [[menu.main]]
     name = "Blog"
