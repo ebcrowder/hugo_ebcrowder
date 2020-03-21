@@ -1,5 +1,6 @@
 {{ define "main" }}
 
 <h1 class="f1">{{ .Title }}</h1>
+{{if (isset .Params "date")}}
 <p class="f3">{{ .Date.Format "2006-01-02"}}</p>
-{{ .Content }} {{ end }}
+{{end}} {{ .Content }} {{ end }}
