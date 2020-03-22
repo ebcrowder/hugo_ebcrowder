@@ -11,3 +11,5 @@ Feel free to reach out to [me](mailto:ebcrowder@gmail.com) for coffee!
 [GitHub](https://github.com/ebcrowder)
 
 [LinkedIn](https://www.linkedin.com/in/ebcrowder/)
+
+[Twitter](https://twitter.com/ebcrowder)
