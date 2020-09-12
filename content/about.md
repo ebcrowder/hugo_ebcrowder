@@ -6,7 +6,7 @@ I am a software engineer based in sunny Portland, Oregon. I really enjoy collabo
 
 When not building things indoors, I spend a lot of time outside - camping, running, hiking and biking. In particular, I love being a part of the Pacific Northwest trail running community and enjoy exploring the many trails located in Oregon and Washington.
 
-Feel free to reach out to [me](mailto:ebcrowder@gmail.com) for coffee!
+Feel free to reach out to [me](mailto:eric@ebcrowder.dev) for coffee!
 
 [GitHub](https://github.com/ebcrowder)
 
