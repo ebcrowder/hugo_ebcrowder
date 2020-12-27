@@ -165,3 +165,5 @@ ping 192.168.xxx.xxx
 ## Wrap up
 
 That is it! You now have a functioning set of VMs that can communicate across devices on your local network.
+
+At this point, you can set up the VMs to be a Kubernetes cluster, using a tool such as `k3sup` or `kubeadm`.
