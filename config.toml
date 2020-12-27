@@ -22,5 +22,5 @@ title = "Eric Crowder"
     codeFences = true
     guessSyntax = false
     noClasses = true
-    style = "borland"
+    style = "friendly"
     tabWidth = 4
